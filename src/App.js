@@ -109,7 +109,7 @@ function App() {
 
       const headers = {
         "Content-Type": "application/json",
-        Authorization: `Bearer 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`, // Replace with your OpenAI API key
+        Authorization: `Bearer some api keys`, // Replace with your OpenAI API key
       };
 
       // API call using fetch
